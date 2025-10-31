@@ -1,0 +1,11 @@
+[aria-label*="Sponsored"],
+.pla-unit,
+.commercial-unit-desktop-top,
+.cu-container {
+  display: none !important;
+}
+
+div[data-text-ad],
+div[data-pla] {
+  display: none !important;
+}

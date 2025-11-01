@@ -19,7 +19,7 @@ This Chrome extension blocks sponsored links/ads. No more suspicious links, no m
 1. Go to the [Releases](https://github.com/plocj/no-more-sponsors/releases) page
 2. Download the latest ZIP file
 3. Extract/Unzip the folder
-4. Open Chrome and go to 'chrome://extensions'
+4. Open Chrome and go to `chrome://extensions/`
 5. Enable **"Developer Mode"** (toggle in top right)
 6. Click **"Load unpacked"**
 7. Select the extracted folder
@@ -72,3 +72,4 @@ MIT License - Free to use and modify
 ---
 
 ## #NoMoreSponsors!
+
